@@ -17,4 +17,4 @@ I'm a innovative developer with +5 years of experience managing several aspects 
 
 📫 How to reach me:
 * [Linkedin Profile](https://www.linkedin.com/in/ricardosilvanunes/)
-* [Email](ricardorichsn@gmail.com)
+* ricardorichsn@gmail.com
