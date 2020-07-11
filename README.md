@@ -1,5 +1,4 @@
-### Hi there 👋
-
+# Hi there :wave:
 <!--
 **ricardosn/ricardosn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a innovative developer with +5 years of experience managing several aspects of the development process for small to medium-sized companies. 
+
+📫 How to reach me:
+* [Linkedin Profile](https://www.linkedin.com/in/ricardosilvanunes/)
+* [Email](ricardorichsn@gmail.com)
